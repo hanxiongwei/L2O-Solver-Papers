@@ -2,7 +2,7 @@
 
 ## Tutorial and Books
 
-* [Maros, I., 2012. *Computational techniques of the simplex method* (Vol. 61). Springer Science & Business Media.]([https://books.google.com.sg/books?hl=en&lr=&id=zkvtBwAAQBAJ&oi=fnd&pg=PA3&dq=Computational+Techniques+for+Simplex&ots=Yra6TfbSI9&sig=3M9zG_kW2WjQ0FT1quXapkkdCc8&redir_esc=y#v=onepage&q=Computational%20Techniques%20for%20Simplex&f=false](https://books.google.com.sg/books?hl=en&lr=&id=zkvtBwAAQBAJ&oi=fnd&pg=PA3&dq=Computational+Techniques+for+Simplex&ots=Yra6TfbSI9&sig=3M9zG_kW2WjQ0FT1quXapkkdCc8&redir_esc=y#v=onepage&q=Computational Techniques for Simplex&f=false)
+* [Maros, I., 2012. *Computational techniques of the simplex method* (Vol. 61). Springer Science & Business Media.]([https://books.google.com.sg/books?hl=en&lr=&id=zkvtBwAAQBAJ&oi=fnd&pg=PA3&dq=Computational+Techniques+for+Simplex&ots=Yra6TfbSI9&sig=3M9zG_kW2WjQ0FT1quXapkkdCc8&redir_esc=y#v=onepage&q=Computational%20Techniques%20for%20Simplex&f=false](https://books.google.com.sg/books?hl=en&lr=&id=zkvtBwAAQBAJ&oi=fnd&pg=PA3&dq=Computational+Techniques+for+Simplex&ots=Yra6TfbSI9&sig=3M9zG_kW2WjQ0FT1quXapkkdCc8&redir_esc=y#v=onepage&q=Computational Techniques for Simplex&f=false))
 * [Conejo, A.J., Castillo, E., Minguez, R. and Garcia-Bertrand, R., 2006. *Decomposition techniques in mathematical programming: engineering and science applications*. Springer Science & Business Media.](https://books.google.com.sg/books?hl=en&lr=&id=gdJDAAAAQBAJ&oi=fnd&pg=PA3&dq=Decomposition_Techniques_in_Mathematical_Programming_Engineering_and_Science_Applications&ots=rQIhXC0jA6&sig=jWoTKaiXhL0rGkubBtwnHgJEnVc&redir_esc=y#v=onepage&q=Decomposition_Techniques_in_Mathematical_Programming_Engineering_and_Science_Applications&f=false)
 
 ## Review Papers
