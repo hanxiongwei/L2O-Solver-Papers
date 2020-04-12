@@ -11,14 +11,15 @@ Organization: Huawei Technologies Noah's Ark Lab(华为诺亚方舟实验室).
 2. [Review Papers](#review-papers)
 
 3. [Research Papers](#research-papers)
-
+  
   3.1. [Production Planning](#production-planning)
-
+  
   3.2. [Decomposition](#decomposition)
-
+  
   3.3. [Simplex Method](#simplex-method)
-
+  
   3.4. [RL for Combinatorial Optimization](#rl-for-combinatorial-optimization)
+
 
 ## <span id="tutorial-and-books">Tutorial and Books</span>
 
