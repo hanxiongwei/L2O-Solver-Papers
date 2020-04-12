@@ -26,3 +26,12 @@
 
 * [Spielman DA, Teng SH. Smoothed analysis of algorithms: Why the simplex algorithm usually takes polynomial time. Journal of the ACM (JACM). 2004 May 1;51(3):385-463.](https://arxiv.org/abs/cs/0111050)
 * [De Farias, D.P. and Van Roy, B., 2004. On constraint sampling in the linear programming approach to approximate dynamic programming. *Mathematics of operations research*, *29*(3), pp.462-478.](https://pubsonline.informs.org/doi/abs/10.1287/moor.1040.0094)
+
+### RL for Combinatorial Optimization
+* [Oriol Vinyals, Meire Fortunato, Navdeep Jaitly: Pointer Networks. NIPS 2015: 2692-2700.](https://arxiv.org/abs/1506.03134)
+* [Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio: Neural Combinatorial Optimization with Reinforcement Learning. ICLR (Workshop) 2017.](https://arxiv.org/abs/1611.09940)
+* [N. MohammadReza, O. Afshin, V. S. Lawrence and T. Martin, "Deep Reinforcement Learning for Solving the Vehicle Routing Problem," CoRR, 13 Aug 2018.](https://arxiv.org/abs/1802.04240v1)
+* [E. Khalil, H. Dai, Y. Zhang, B. Dilkina and L. Song, "Learning Combinatorial Optimization Algorithms over Graphs," in Advances in Neural Information Processing Systems 30, 2017.](https://arxiv.org/abs/1704.01665) 
+* [J. Jiechuan, D. Chen and L. Zongqing, "Graph Convolutional Reinforcement Learning for Multi-agent Cooperation," in arxXiv, 2018.](https://arxiv.org/abs/1810.09202v1) 
+* [Wouter Kool, Herke van Hoof, Max Welling: Attention, Learn to Solve Routing Problems! ICLR (Poster) 2019.](https://arxiv.org/abs/1803.08475v3) 
+* [Yunhao Tang et.al: Reinforcement Learning for Integer Programming: Learning to Cut. CoRR abs/1906.04859 (2019).](https://arxiv.org/abs/1906.04859) 
