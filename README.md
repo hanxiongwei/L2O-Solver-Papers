@@ -1,5 +1,11 @@
 # Paper Collection of Learning-to-Optimization and Solvers
 
+Contributed by Mingxuan Yuan, Huiling Zhen, Qiquan Shi, Xijun Li, Fangzhou Zhu, Zeren Huang, Xiongwei Han.
+
+Organization: Huawei Technologies Noah's Ark Lab(华为诺亚方舟实验室), EI group.
+
+[TOC]
+
 ## Tutorial and Books
 
 * Maros, I., 2012. *Computational techniques of the simplex method* (Vol. 61). Springer Science & Business Media.
@@ -17,7 +23,7 @@
 * [Degbotse, A., Denton, B.T., Fordyce, K., Milne, R.J., Orzell, R. and Wang, C.T., 2013. IBM blends heuristics and optimization to plan its semiconductor supply chain. *Interfaces*, *43*(2), pp.130-141.](https://pubsonline.informs.org/doi/abs/10.1287/inte.1120.0642)
 * [Denton, B.T., Forrest, J. and Milne, R.J., 2006. IBM solves a mixed-integer program to optimize its semiconductor supply chain. *Interfaces*, *36*(5), pp.386-399.](https://pubsonline.informs.org/doi/abs/10.1287/inte.1060.0238)
 
-### 矩阵分解
+### Decomposition
 
 * [Haeffele, B.D. and Vidal, R., 2019. Structured low-rank matrix factorization: Global optimality, algorithms, and applications. *IEEE transactions on pattern analysis and machine intelligence*.](https://ieeexplore.ieee.org/abstract/document/8643982/)
 * [Lee, N. and Cichocki, A., 2015. Regularized Computation of Approximate Pseudoinverse of Matrices Using Low-Rank Tensor Train Decompositions. *arXiv preprint arXiv:1506.01959*.](https://www.researchgate.net/profile/Andrzej_Cichocki2/publication/277895438_Regularized_Computation_of_Approximate_Pseudoinverse_of_Matrices_Using_Low-Rank_Tensor_Train_Decompositions/links/566803da08aea62726ef7352.pdf)
