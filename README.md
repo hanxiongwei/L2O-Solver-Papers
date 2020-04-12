@@ -6,17 +6,15 @@ Organization: Huawei Technologies Noah's Ark Lab(华为诺亚方舟实验室), E
 
 ## Content
 
-1. [Tutorial and Books](#Tutorial and Books)
-1. [Review Papers](#Review Papers)
-   1. xxx
-   2. xxx
+1. [Tutorial and Books](#tutorial-and-books)
+2. [Review Papers](#review-papers)
 
-## Tutorial and Books
+## <span id="tutorial-and-books">Tutorial and Books</span>
 
 * Maros, I., 2012. *Computational techniques of the simplex method* (Vol. 61). Springer Science & Business Media.
 * [Conejo, A.J., Castillo, E., Minguez, R. and Garcia-Bertrand, R., 2006. *Decomposition techniques in mathematical programming: engineering and science applications*. Springer Science & Business Media.](https://books.google.com.sg/books?hl=en&lr=&id=gdJDAAAAQBAJ&oi=fnd&pg=PA3&dq=Decomposition_Techniques_in_Mathematical_Programming_Engineering_and_Science_Applications&ots=rQIhXC0jA6&sig=jWoTKaiXhL0rGkubBtwnHgJEnVc&redir_esc=y#v=onepage&q=Decomposition_Techniques_in_Mathematical_Programming_Engineering_and_Science_Applications&f=false)
 
-## Review Papers
+## <span id="review-papers">Review Papers</span>
 
 * [Bengio, Y., Lodi, A. and Prouvost, A., 2018. Machine Learning for Combinatorial Optimization: a Methodological Tour d'Horizon. *arXiv preprint arXiv:1811.06128*.](https://arxiv.org/abs/1811.06128)
 
