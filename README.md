@@ -29,7 +29,7 @@ Organization: Huawei Technologies Noah's Ark Lab(华为诺亚方舟实验室).
 
 * [Bengio, Y., Lodi, A. and Prouvost, A., 2018. Machine Learning for Combinatorial Optimization: a Methodological Tour d'Horizon. *arXiv preprint arXiv:1811.06128*.](https://arxiv.org/abs/1811.06128)
 
-## <span id="research-papers">]Research Papers</span>
+## <span id="research-papers">Research Papers</span>
 
 ### <span id="production-planning">Production Planning</span>
 
